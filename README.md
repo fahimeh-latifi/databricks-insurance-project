@@ -93,7 +93,11 @@ Business-ready aggregated tables:
 [CSV Files] → [Bronze Tables] → [Silver Tables] → [Gold Tables]
    (Raw)         (Ingested)       (Cleansed)      (Analytics)
 ```
+## 📊 Dashboard
 
+### 🔹 Full Report
+
+[📄 Open Full Dashboard (PDF)](./dashboards/insurance_dashboard.pdf)
 ## 📈 Analytics Use Cases
 
 - **Risk Assessment**: Identify high-risk customers based on claim history
