@@ -17,6 +17,8 @@ This project processes insurance data through a medallion architecture:
 │   ├── ingestion_to_bronze.sql  # Bronze layer: Raw data ingestion
 │   ├── bronze_to_silver.sql     # Silver layer: Data quality & transforms
 │   └── silver_to_gold.sql       # Gold layer: Business aggregations
+├── 📁dashboard
+|    ├── insurance_dashboard.pdf
 ├── 📄 README.md                 # This file
 └── 📄 .gitignore                # Git ignore patterns
 ```
